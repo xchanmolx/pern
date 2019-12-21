@@ -1,0 +1,34 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "PostgreSQL / Express / React / Node",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xchanmolx/pern.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Chiantine Manigos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xchanmolx/pern/issues"
+  },
+  "homepage": "https://github.com/xchanmolx/pern#readme",
+  "devDependencies": {
+    "concurrently": "^5.0.1",
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "pg": "^7.14.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  }
+}
