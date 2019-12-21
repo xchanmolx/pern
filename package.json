@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xchanmolx/pern.git"
+    "url": "git+https://github.com/xchanmolx/weather.git"
   },
   "keywords": [
     "react"
@@ -16,9 +16,9 @@
   "author": "Chiantine Manigos",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xchanmolx/pern/issues"
+    "url": "https://github.com/xchanmolx/weather/issues"
   },
-  "homepage": "https://github.com/xchanmolx/pern#readme",
+  "homepage": "https://github.com/xchanmolx/weather#readme",
   "devDependencies": {
     "concurrently": "^5.0.1",
     "nodemon": "^2.0.2"
